@@ -1,2 +1,7 @@
 **/node_modules
+<<<<<<< HEAD
 **/coverage
+=======
+**/coverage
+**/.scannerwork
+>>>>>>> 4f8601e930cc1fee4f9df22b31e423db955fc27a
